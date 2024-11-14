@@ -1,0 +1,2 @@
+ssh -p 10021 user@bis.fit.vutbr.cz
+username: Vaše VUT číslo (123456)
