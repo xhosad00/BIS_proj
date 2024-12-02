@@ -1,0 +1,32 @@
+A
+The secret A is hidden deep down in the shadow of the Iron Fortress.
+Although the gate used to be hard as a shell, nowadays it looks like it could easily crumble from a shock.
+A marking at the base of the gate shows the number: 2014-6271.
+It seems like the housekeeper of the Iron Fortress forgot to upgrade the defences of his house.
+
+B
+King of Edoras holds secret B hidden to everyone.
+He keeps the secret in his private space where only him can access it.
+Not even his very close elven friend - admin, who shares many secrets with the king - cannot access it.
+However, while the king keeps an eye on his secret, he may overlook access restrictions to some other important files.
+Find out how to control his friend - admin - and search some other interesting files to find out, how to bypass the king's guards.
+Perhaps, you should start gathering other information about his friend somewhere else.
+
+C
+Secret C is easily retrieved from lousy workers at the elven kingdom.
+They barely check the outside of the incoming packages, let alone the insides.
+All they do is check the outsides and look on the lable, which describes the insides.
+Snuck a fake, possibly malicious package - a php script-like payload - through the input checkers and the secret is yours.
+
+D
+The dark forest is a place of many webs and bugs, some of them hardly visible.
+Those who can not find their way should verify themselves to the forest and the way shall be pointed to them.
+Once you arrive to the right place, perhaps ask not only about items, but about the contents of the previous verification too.
+Some say, the best way to approach this task is through union.
+
+E
+On thing is for sure - you are always welcome here in the house of Elrond.
+Your old friend said, that he has an interesting artefact.
+A chest with a damaged lid - to a common bystander, this chest looks like a junk.
+But Elrond is very persistent - he knows that the chest hides something.
+
