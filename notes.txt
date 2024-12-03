@@ -4,3 +4,9 @@ ssh -p 5555 student@bis.fit.vutbr.cz
 login to node:
 ssh -p 10021 user@bis.fit.vutbr.cz
 username: Vaše VUT číslo (231049), heslo - basic tower, no cap no num
+
+
+scp -P 10021 ./LinEnum.sh     user@bis.fit.vutbr.cz:~/
+
+
+scp -i ~/.ssh/id_rsa /src elrond@10.89.1.156:/dst
